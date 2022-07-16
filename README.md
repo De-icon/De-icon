@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @De-icon
+- 👋 Hi, I’m Isaac
 - 👀 I’m interested in wed development and wed design
 - 🌱 I’m currently learning HTML CSS JAVASCREPT
 - 💞️ I’m looking to collaborate on wed development

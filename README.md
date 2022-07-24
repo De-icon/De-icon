@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Isaac
 - 👀 I’m interested in wed development and wed design
-- 🌱 I’m currently learning HTML CSS JAVASCREPT
+- 🌱 I’m currently learning HTML, CSS and JAVASCREPT
 - 💞️ I’m looking to collaborate on wed development
 - 📫 How to reach me ... +234 9078 884 999
 
